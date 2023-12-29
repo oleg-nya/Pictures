@@ -1,0 +1,11 @@
+.button {
+  color: bisque;
+  padding: 8px 22px;
+  border-radius: 6px;
+  background: #7d2a;
+  transition: all 0.2 ease;
+}
+
+button:active{
+    transform: scale(0.96);
+}
